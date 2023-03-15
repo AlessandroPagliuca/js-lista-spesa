@@ -1,0 +1,19 @@
+.c92-ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.c92-boxS{
+    box-shadow: 0rem 0rem .5rem rgb(255, 255, 255);
+    position: relative;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.c92box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
